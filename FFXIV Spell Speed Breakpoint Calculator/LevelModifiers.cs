@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace FFXIV_Summoner_Damage_Calculator
+namespace FFXIV_Spell_Speed_Breakpoint_Calculator
 {
     class LevelModifiers {
         public int lvlModSUB;
